@@ -1,3 +1,5 @@
+"""Setup project."""
+
 import subprocess
 import shutil
 import os
